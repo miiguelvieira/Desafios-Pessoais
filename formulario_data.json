@@ -1,0 +1,29 @@
+[
+  {
+    "id": -8206229151838427108,
+    "nome": "Miguel Vieira Araujo",
+    "idade": 29,
+    "altura": 1.7,
+    "peso": 85.3,
+    "formação": "Administração",
+    "data_registro": "08/09/2025 16:37:07"
+  },
+  {
+    "id": -4017203034795027262,
+    "nome": "Arthur Nunes Coimbra",
+    "idade": 67,
+    "altura": 1.67,
+    "peso": 65.0,
+    "formação": "Futebolista",
+    "data_registro": "08/09/2025 16:37:40"
+  },
+  {
+    "id": 196885430067889759,
+    "nome": "Miguel Araujo e Só",
+    "idade": 50,
+    "altura": 1.5,
+    "peso": 50.0,
+    "formação": "estudando",
+    "data_registro": "08/09/2025 16:38:34"
+  }
+]
