@@ -1,49 +1,49 @@
-frase = "Uma vez Flamengo\
-Sempre Flamengo\
-Flamengo sempre eu hei de ser\
+frase = "Umxa vez Flamengo \
+Sempre Flamengo \
+Flamengo sempre eu hei de ser \
 \
-É meu maior prazer vê-lo brilhar\
-Seja na terra, seja no mar\
-Vencer, vencer, vencer\
-\
-Uma vez Flamengo\
-Flamengo até morrer\
-\
-Na regata, ele me mata\
-Me maltrata, me arrebata\
-Que emoção no coração\
-Consagrado no gramado\
-Sempre amado, o mais cotado\
-No Fla-Flu é o: Ai, Jesus!\
-\
-Eu teria um desgosto profundo\
-Se faltasse o Flamengo no mundo\
-Ele vibra, ele é fibra\
-Muita libra já pesou\
-Flamengo até morrer eu sou\
-\
-Uma vez Flamengo\
-Sempre Flamengo\
-Flamengo sempre eu hei de ser\
-\
-É meu maior prazer vê-lo brilhar\
-Seja na terra, seja no mar\
-Vencer, vencer, vencer\
-\
-Uma vez Flamengo\
-Flamengo até morrer\
-\
-Na regata, ele me mata\
-Me maltrata, me arrebata\
-Que emoção no coração\
-Consagrado no gramado\
-Sempre amado, o mais cotado\
-No Fla-Flu é o: Ai, Jesus!\
-\
-Eu teria um desgosto profundo\
-Se faltasse o Flamengo no mundo\
-Ele vibra, ele é fibra\
-Muita libra já pesou\
+É meu maior prazer vê-lo brilhar \
+Seja na terra, seja no mar \
+Vencer, vencer, vencer \
+ \
+Uma vez Flamengo \
+Flamengo até morrer \
+ \
+Na regata, ele me mata \
+Me maltrata, me arrebata \
+Que emoção no coração \
+Consagrado no gramado \
+Sempre amado, o mais cotado \
+No Fla-Flu é o: Ai, Jesus! \
+ \
+Eu teria um desgosto profundo \
+Se faltasse o Flamengo no mundo \
+Ele vibra, ele é fibra \
+Muita libra já pesou \
+Flamengo até morrer eu sou \
+ \
+Uma vez Flamengo \
+Sempre Flamengo \
+Flamengo sempre eu hei de ser \
+ \
+É meu maior prazer vê-lo brilhar \
+Seja na terra, seja no mar \
+Vencer, vencer, vencer \
+ \
+Uma vez Flamengo \
+Flamengo até morrer \
+ \
+Na regata, ele me mata \
+Me maltrata, me arrebata \
+Que emoção no coração \
+Consagrado no gramado \
+Sempre amado, o mais cotado \
+No Fla-Flu é o: Ai, Jesus! \
+ \
+Eu teria um desgosto profundo \
+Se faltasse o Flamengo no mundo \
+Ele vibra, ele é fibra \
+Muita libra já pesou \
 Flamengo até morrer eu sou"
 
 frase = frase.lower()
@@ -54,8 +54,14 @@ i = 0
 qt_vezes = 0
 let_mais_vezes = ""
 
-x = len(frase)
+print("="*50)
+print("="*50)
+print(frase[i+2])
 
+print(frase.count("x"))
+
+x = len(frase)
+print(x)
 while i < x:
     letra = frase[i]
 
